@@ -13,3 +13,4 @@ public class WelcomePageController {
         return "index";
     }
 }
+throw new java.lang.RuntimeException("this is not quite as bad");
